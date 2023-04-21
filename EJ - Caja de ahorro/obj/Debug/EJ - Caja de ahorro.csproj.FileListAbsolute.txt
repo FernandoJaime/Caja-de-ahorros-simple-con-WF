@@ -1,0 +1,11 @@
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\bin\Debug\EJ - Caja de ahorro.exe.config
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\bin\Debug\EJ - Caja de ahorro.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\bin\Debug\EJ - Caja de ahorro.pdb
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ - Caja de ahorro.csproj.AssemblyReference.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ___Caja_de_ahorro.Properties.Resources.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ - Caja de ahorro.csproj.GenerateResource.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ - Caja de ahorro.csproj.CoreCompileInputs.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ - Caja de ahorro.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ - Caja de ahorro.pdb
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ___Caja_de_ahorro.FormAcceso.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\EJ - Caja de ahorro\EJ - Caja de ahorro\obj\Debug\EJ___Caja_de_ahorro.FormCaja.resources
